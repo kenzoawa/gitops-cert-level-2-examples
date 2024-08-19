@@ -33,4 +33,4 @@ spec:
     kind: Secret
     namespace: example02
     jsonPointers:
-    - /data/my-password
+    - /data
